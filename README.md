@@ -9,9 +9,6 @@ Projeto usando um potenciômetro, buzzer e um led de alto brilho. Usando o poten
 O arquivo do código todo está disposto nesse repositório com a extensão .ino, para quem quiser baixar e upar para o
 Arduino.
 
-Na imagem abaixo tem o circuito montado no tinkercad, para poder observar como foi feito, e na outra imagem será colocado os componentes utilizados no projeto, assim como o link para o projeto, podendo assim experimentar ele.
-Observação: Não encontrei um led de alto brilho no tinkercad, e por isso foi utilizado apenas o buzzer, mas para quem quiser colocar o led, é simples, é só colocar o led ligado a uma saída pwm, e fazer outra variável de analogWrite(led, pwm), e assim poderá controlar ao mesmo tempo.
-
 ![Screenshot Circuito](https://github.com/SquirrelArteeDesign/Potenciometro-Buzzer-Led_Alto_Brilho/blob/master/images/Circuito.png)
 
 ![Screenshot - Componenetes](https://github.com/SquirrelArteeDesign/Potenciometro-Buzzer-Led_Alto_Brilho/blob/master/images/Componentes.png)
